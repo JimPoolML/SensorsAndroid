@@ -23,4 +23,5 @@
     <color name="dark_gray">#4B5262</color>
     <color name="gray_hint">#6600102E</color>
     <color name="cyanBlue">#00A1E2</color>
+    <color name="purple_toolbar">#682A97</color>
 </resources>
